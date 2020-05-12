@@ -570,3 +570,19 @@
         ]
     }
 ]
+            "issuer": "GBIBJJALAUL2IYM5CILWDQHULVNP67YQV4HSDWKUKK2KNORQBKMH6W3E"
+        }
+    ]
+},
+{
+    "domain": "esax.tech",
+    "website": "https://esax.tech/",
+    "logo": "esax.tech.png",
+    "displayName": "ESAX",
+    "assets": [
+        {
+            "code": "ESAX",
+            "issuer": "GBIBJJALAUL2IYM5CILWDQHULVNP67YQV4HSDWKUKK2KNORQBKMH6W3E"
+        }
+    ]
+}
